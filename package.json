@@ -1,0 +1,33 @@
+{
+  "name": "react-hot-service",
+  "version": "0.0.0",
+  "description": "middleware-injector which enables your expressServer to hotswap ES6+ empowered react-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikhedonia/react-hot-service.git"
+  },
+  "keywords": [
+    "react",
+    "hot",
+    "webpack",
+    "dev",
+    "middlware",
+    "babel",
+    "es6",
+    "es7",
+    "express"
+  ],
+  "author": "Gaetano Checinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhedonia/react-hot-service/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1"
+  }
+}
